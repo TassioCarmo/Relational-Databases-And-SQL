@@ -1,6 +1,3 @@
-Claro! Abaixo está uma versão formatada e aprimorada para um arquivo `README.md`, no estilo de documentação técnica ou acadêmica. Essa estrutura pode ser usada em repositórios GitHub, portfólios ou arquivos de entrega.
-
----
 
 # Disciplina: Bancos de Dados Relacionais e Linguagem SQL
 
@@ -38,5 +35,3 @@ Capacitar os alunos a:
 - Concluir a implantação de projetos de banco de dados em SGBDs livres
 
 ---
-
-Se desejar, posso transformar isso em um arquivo `.md` pronto para download. Deseja que eu gere esse arquivo para você?
