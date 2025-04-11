@@ -1,9 +1,8 @@
 
 # Bancos de Dados Relacionais e Linguagem SQL | Relational Databases and SQL Language
 
-https://www.quest.com/images/og/OGImage-RelationalDatabase_166844.png
+![image](https://github.com/user-attachments/assets/4a078a7f-dbd6-4de5-8df8-0c668aedb82c)
 
-![image]([https://github.com/user-attachments/assets/514460aa-530b-4c33-af38-531f8c783586](https://www.quest.com/images/og/OGImage-RelationalDatabase_166844.png))
 
 
 ## Ementa | Course Description
