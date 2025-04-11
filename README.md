@@ -115,22 +115,3 @@ A disciplina combina:
 3. CORONEL, C.; MORRIS, S. **Database Systems: Design, Implementation, and Management**. 13th Ed. Boston: Cengage Learning, 2018.
 4. POSTGRESQL. **PostgreSQL Documentation**. Disponível em: [https://www.postgresql.org/docs/](https://www.postgresql.org/docs/)
 5. MYSQL. **MySQL Reference Manual**. Disponível em: [https://dev.mysql.com/doc/](https://dev.mysql.com/doc/)
-
-## Avaliação | Assessment
-
-A avaliação será realizada através de:
-* Exercícios práticos (30%)
-* Projeto de banco de dados (40%)
-* Avaliação teórica (30%)
-
-## Pré-requisitos | Prerequisites
-
-* Conhecimentos básicos de lógica de programação
-* Fundamentos de estruturas de dados
-* Noções de modelagem de sistemas
-
----
-
-
-
----
