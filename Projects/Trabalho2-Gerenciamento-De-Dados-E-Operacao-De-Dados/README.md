@@ -1,4 +1,4 @@
-# Exercícios de SQL com o Banco de Dados Sakila
+# Trabalho Final da Unidade 2 de SQL com o Banco de Dados Sakila
 
 Este repositório contém os exercícios realizados a partir da prática com o banco de dados de exemplo **Sakila**, utilizando o MySQL Workbench. O objetivo é desenvolver habilidades em escrita e correção de queries SQL, além de manipulação de dados em tabelas relacionais.
 
