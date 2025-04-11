@@ -1,5 +1,3 @@
----
-
 # Trabalho Final da Unidade 3: COMANDOS DML
 
 **Curso:** Arquitetura de Dados  
