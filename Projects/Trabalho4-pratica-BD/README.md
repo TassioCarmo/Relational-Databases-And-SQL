@@ -1,4 +1,4 @@
-# rabalho Final da Unidade 4
+# Trabalho Final da Unidade 4
 
 Este documento apresenta as diretrizes, requisitos e orientações para a realização do trabalho final da Unidade 4, que tem como foco a aplicação da metodologia prática de projeto de Banco de Dados e o uso das ferramentas disponíveis.
 
